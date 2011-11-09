@@ -1,0 +1,13 @@
+Precompiled binaries
+====================
+
+For an IM-me handset:
+$ goodfet.cc erase
+$ goodfet.cc flash pinkos-handset-addr1.hex
+$ goodfet.cc flash specan-handset.hex
+
+For a dongle:
+$ goodfet.cc erase
+$ goodfet.cc flash pinkos-dongle-addr2.hex
+
+
